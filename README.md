@@ -46,6 +46,6 @@ Languages & Technologies: `Java`, `Appian`, `Mulesoft` \
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=vladiprograma&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
-<img align="center" alt="GIF" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/monkey.gif?raw=true"/>
+<p align="center"><img align="center" alt="GIF" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/monkey.gif?raw=true"/></p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
