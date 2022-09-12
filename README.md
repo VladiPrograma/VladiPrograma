@@ -16,20 +16,15 @@
 
 
 ### Work Experience
-In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
 
-**Senior Site Reliability Engineer (SRE)** \
-[**KPN**](https://www.kpn.com/) • Contract \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+**Junior developer** \
+[**Deloitte**](https://www2.deloitte.com/es/es.html) • Contract \
+Languages & Technologies: `Java`, `Appian`, `Mulesoft` \
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
-
-<br/>
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
