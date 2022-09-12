@@ -1,7 +1,8 @@
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">Vlad</a></h2>
 <h3 align="center">A passionate full stack movile developer from Spain</h3>
 
- <img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/coding.gif)" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/coding.gif" width="500" height="320" />
+ 
 - 🔭 I’m currently working on [MarvalFit App](https://github.com/VladiPrograma/marvalfit)
 
 - 🌱 I’m currently learning **IA and Mobile UX/DX**
