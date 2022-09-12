@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vlad</h1>
+<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Vlad</a></h2>
 <h3 align="center">A passionate full stack movile developer from Spain</h3>
 
 
@@ -9,6 +9,8 @@
 - 🤝 I’m looking for help with **Bloc & RiverPod**
 
 - 📫 How to reach me **vladicodigo@gmail.com**
+
+- 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>
 
 - ✈ I love travelling **talk me about your last trip !**
 
