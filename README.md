@@ -17,7 +17,7 @@
 
 ### Work Experience
 
-[<img align="left" height="94px" width="94px" alt="Deloitte" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="Deloitte" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/deloitte.jpg?raw=true"/>](https://www.kpn.com/)
 
 **Junior developer** \
 [**Deloitte**](https://www2.deloitte.com/es/es.html) • Contract \
