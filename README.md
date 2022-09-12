@@ -14,6 +14,23 @@
 
 - ✈ I love travelling **talk me about your last trip !**
 
+
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+
+**Senior Site Reliability Engineer (SRE)** \
+[**KPN**](https://www.kpn.com/) • Contract \
+Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
+
+<br/>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/vladicodigo" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vladicodigo" height="30" width="40" /></a>
@@ -28,6 +45,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vladiprograma&show_icons=true&locale=en" alt="vladiprograma" /></p>
 
-<hr>
+<br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
