@@ -47,5 +47,5 @@ Languages & Technologies: `Java`, `Appian`, `Mulesoft` \
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=vladiprograma&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 <p align="center"><img align="center" alt="GIF" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/monkey.gif?raw=true"/></p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
