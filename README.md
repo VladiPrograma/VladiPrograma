@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/coding.gif">
+</p>
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">Vlad</a></h2>
 <h3 align="center">A passionate full stack movile developer from Spain</h3>
 
