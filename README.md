@@ -23,7 +23,7 @@
 
 **Java Developer** \
 [**Hasten**]([https://www2.deloitte.com/es/es.html](https://www.grupohasten.com/)) • Contract \
-Languages & Technologies: `Java`, `Appian`, `Mulesoft` \
+Languages & Technologies: `Java 17`, `Spring Cloud`, `Mongo`, `Python` \
 <br/>
 <br/>
 
