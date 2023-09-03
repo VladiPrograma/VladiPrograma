@@ -21,9 +21,15 @@
 
 [<img align="left" height="94px" width="94px" alt="Deloitte" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/deloitte.jpg?raw=true"/>](https://www.kpn.com/)
 
+**Java Developer** \
+[**Hasten**]([https://www2.deloitte.com/es/es.html](https://www.grupohasten.com/)) • Contract \
+Languages & Technologies: `Java`, `Appian`, `Mulesoft` \
+<br/>
+<br/>
+
 **Junior developer** \
 [**Deloitte**](https://www2.deloitte.com/es/es.html) • Contract \
-Languages & Technologies: `Java`, `Appian`, `Mulesoft` \
+Languages & Technologies: `Java`, `Spring`, `Kubernetes`, `Docker` \
 <br/>
 <br/>
 
