@@ -19,7 +19,7 @@
 
 ### Work Experience
 
-[<img align="left" height="94px" width="94px" alt="Deloitte" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/deloitte.jpg?raw=true"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="Deloitte" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/hasten.jpg?raw=true"/>](https://www.kpn.com/)
 
 **Java Developer** \
 [**Hasten**]([https://www2.deloitte.com/es/es.html](https://www.grupohasten.com/)) • Contract \
