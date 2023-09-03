@@ -27,6 +27,8 @@ Languages & Technologies: `Java`, `Appian`, `Mulesoft` \
 <br/>
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Deloitte" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/deloitte.jpg?raw=true"/>](https://www.kpn.com/)
+
 **Junior developer** \
 [**Deloitte**](https://www2.deloitte.com/es/es.html) • Contract \
 Languages & Technologies: `Java`, `Spring`, `Kubernetes`, `Docker` \
