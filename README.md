@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vladicodigo@gmail.com**
 
-- 📙 Check out my <a href="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/CV Vlad.pdf">resume</a>
+- 📙 Check out my <a href="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/CV_vlad.pdf">resume</a>
 
 - ✈ I love travelling **talk me about your last trip !**
 
