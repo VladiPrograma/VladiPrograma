@@ -39,7 +39,6 @@ Languages & Technologies: `Java`, `Spring`, `Kubernetes`, `Docker` \
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/vladicodigo" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vladicodigo" height="30" width="40" /></a>
-<a href="https://instagram.com/vladi_viajes" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vladi_viajes" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vladicode" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vladicode" height="30" width="40" /></a>
 </p>
 <br/>
