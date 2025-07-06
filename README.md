@@ -1,16 +1,16 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Vlad</a></h2>
+<h2>Hey 👋, I'm Vlad </h2>
 <h3 align="center">A passionate full stack movile developer from Spain</h3>
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/coding.gif" width="500" height="320" />
  
-- 🔭 I’m currently working on [MarvalFit App](https://github.com/VladiPrograma/marvalfit)
+- 🔭 I’m currently working on [Visco]( https://visco.uno/ )
 
-- 🌱 I’m currently learning **IA and Mobile UX/DX**
+- 🌱 I’m currently learning **CI/CD**
 
-- 🤝 I’m looking for help with **Bloc & RiverPod**
+- 🤝 I’m looking for help with **Sonar configurations and Kubernetes**
 
-- 📫 How to reach me **vladicodigo@gmail.com**
+- 📫 How to reach me **mdumitruvlad@gmail.com**
 
 - 📙 Check out my <a href="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/CV_vlad.pdf">resume</a>
 
