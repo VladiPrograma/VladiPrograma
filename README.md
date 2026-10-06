@@ -17,7 +17,7 @@
 - 🧩 I enjoy working with **Java 17, Spring Boot, microservices, hexagonal architecture, and event-driven systems**
 - 📫 Reach me at **mdumitruvlad@gmail.com**
 - 📍 Based in **Zaragoza, Spain**
-- 📙 Check out my <a href="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/CV_vlad.pdf">resume</a>
+- 📙 Check out my <a href="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/CV_Vlad.pdf">resume</a>
 - ✈ I love travelling and connecting with people from different backgrounds
 
 <br/>
