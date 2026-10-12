@@ -1,125 +1,92 @@
-<h1 align="center">Hey 👋, I'm Vlad</h1>
-<h3 align="center">Backend Developer from Spain</h3>
+<h1 align="center">Hey, I'm Vlad 👋</h1>
+  <h3 align="center">Backend Lead · Java & Spring Boot · Based in Spain</h3>
+  <p align="center">
+    I modernize legacy systems, build backend services, and help teams ship reliable software.<br/>
+    I care about clear architecture, measurable improvements, and understanding the problem behind the code.
+  </p>
+  
+  <p align="center">
+    <a href="https://me.vladicodigo.com"><b>🌐 Visit my website</b></a> ·
+    <a href="mailto:mdumitruvlad@gmail.com">Email</a> ·
+    <a href="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/CV_Vlad.pdf">Resume</a>
+  </p>
 
-<p align="center">
-  I enjoy building scalable backend solutions, modernizing legacy systems, and writing code backed by solid architecture.
-</p>
+  ———
 
-<br/>
+  ### A little about me
+  <img align="right" alt="Coding animation" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/
+  coding.gif?raw=true" width="340" />
 
-<img align="right" alt="Coding" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/coding.gif" width="420" />
+  I'm a Backend Lead at Securitas Direct, based in Zaragoza, Spain.
 
-### About me
+  My work spans legacy modernization, backend architecture, performance optimization, and helping developers grow. Java
+  and Spring Boot are at the heart of my stack, but I also enjoy taking personal projects from the first idea through to
+  deployment.
 
-- 🔭 I’m currently working as **Backend Lead at Securitas Direct**
-- 🌱 I’m currently improving my skills in **CI/CD, cloud architecture, and scalable backend systems**
-- 🤝 I’m interested in collaborating on **AI Agents, Kubernetes, and backend architecture**
-- 🧩 I enjoy working with **Java 17, Spring Boot, microservices, hexagonal architecture, and event-driven systems**
-- 📫 Reach me at **mdumitruvlad@gmail.com**
-- 📍 Based in **Zaragoza, Spain**
-- 📙 Check out my <a href="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/CV_Vlad.pdf">resume</a>
-- ✈ I love travelling and connecting with people from different backgrounds
+  - 🛠️ I like turning complex requirements into software that's easier to understand, test, and maintain.
+  - 🌱 I'm deepening my knowledge of cloud architecture, Kubernetes, and CI/CD.
+  - 🤖 I'm interested in AI agents and how they can support useful products and development workflows.
+  - ✈️ Outside of code, I love travelling and meeting people from different backgrounds.
+  <br clear="both"/>
 
-<br/>
+  ### Where I've made an impact
 
-### Work Experience
+  Backend Lead · Securitas Direct
+  Mar 2023 – Present · Madrid, Spain
 
-[<img align="left" height="94px" width="94px" alt="Securitas Direct" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png"/>](#)
+  - Led the modernization of a legacy platform into Java 17 microservices, reinforcing a multi-module hexagonal
+    architecture.
 
-**Backend Lead**  
-**Securitas Direct** • Mar 2023 - Present  
-Madrid, Spain  
-**Highlights:**
-- Led the modernization of a legacy platform, migrating from a Java wrapper to **Java 17 microservices**
-- Reduced critical query times from **3 minutes to 12 seconds** with **Redis caching** and query optimization
-- Improved **SonarQube test coverage from 0% to 80%** with a strong automated testing strategy
-- Applied **SOLID principles**, reduced boilerplate, and reinforced a **multi-module hexagonal architecture**
-- Passed **Fortify security validations** and strengthened overall platform reliability
+  - Cut critical query times from 3 minutes to 12 seconds through query optimization and Redis caching.
+  - Raised automated test coverage from 0% to 80%, as measured by SonarQube.
+  - Strengthened platform reliability and passed Fortify security validations.
 
-<br/>
+  Full Stack Developer · Geoportail
+  Oct 2021 – Mar 2023 · France
 
-[<img align="left" height="94px" width="94px" alt="Geoportail" src="https://img.icons8.com/color/96/source-code.png"/>](#)
+  - Built features with Java 17, Spring Boot, Angular, and MongoDB.
+  - Integrated aerial imagery uploads with Amazon S3 and Python-processed geospatial data with MongoDB.
+  - Maintained GitLab CI/CD pipelines, supported deployments through Rancher, and centralized observability with
+    Elasticsearch, Kibana, and Grafana.
 
-**Full Stack Mid Developer**  
-**Geoportail** • Oct 2021 - Mar 2023  
-Liron, France  
-**Highlights:**
-- Developed new features in a full-stack environment using **Java 17, Spring Boot, JPA, MongoDB, and Angular**
-- Implemented **aerial image uploads to Amazon S3** and integrated **Python-processed geospatial data** into MongoDB
-- Configured and maintained **GitLab CI/CD pipelines** and supported deployments through **Rancher**
-- Mentored junior developers and helped onboard new team members
-- Centralized observability with **Elasticsearch, Kibana, Grafana, and automated hooks**
+  - Mentored junior developers and helped new teammates get up to speed.
 
-<br/>
+  Junior Java Developer · Renfe
+  Sep 2020 – Oct 2021 · Madrid, Spain
 
-[<img align="left" height="94px" width="94px" alt="Renfe" src="https://img.icons8.com/color/96/train.png"/>](#)
+  - Contributed to services supporting 500,000+ daily passengers.
+  - Built a ticketing and claims microservice from scratch using an API-first approach.
+  - Helped digitize paper-based workflows while supporting and improving production systems.
 
-**Junior Java Developer**  
-**Renfe** • Sep 2020 - Oct 2021  
-Madrid, Spain  
-**Highlights:**
-- Worked on services supporting **500,000+ daily passengers** and high-volume web/app traffic
-- Delivered incident support and evolutionary maintenance in a demanding production environment
-- Built a **ticketing and claims microservice from scratch** under an **API-First** approach
-- Helped replace legacy paper-based workflows with a fully digital solution
+  ### Projects I've helped bring to life
 
-<br/>
+  Cierzolgtb.org (https://cierzolgtb.org) · From idea to production
+  Designed, built, and deployed the platform independently, including authentication, payments, hosting, and an organizer
+  intranet for registrations and event logistics.
 
-### Featured Projects
+  Elisandesign.com (https://elisandesign.com) · Design portfolio
+  Built and deployed a designer's portfolio with a focus on dynamic interfaces, animation, and visual presentation.
 
-**Cierzolgtb.org**  
-**End-to-End Developer**
-- Designed, built, and deployed the full platform independently
-- Implemented authentication, payment integration, hosting, and overall architecture
-- Built an intranet for organizers to manage registrations and event logistics
+  Experience-Now · MotoGP & Estrella Galicia
+  Contributed backend services for a VIP user management app using AWS Lambda, API gateways, and Amazon Aurora.
+ ### Tech I work with
 
-**Elisandesign.com**  
-**End-to-End Developer**
-- Created and deployed a modern portfolio website for a designer
-- Focused on dynamic UI, animations, and a fresh visual experience
+  **My core stack**
+  `Java` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Oracle` `Redis`
 
-**Experience-Now (MotoGP & Estrella Galicia)**  
-**Backend Developer**
-- Contributed to backend development for a VIP user management mobile application
-- Built backend services with **AWS Lambda**, gateways, and request handlers
-- Designed and managed database structures in **Amazon Aurora**
+  **How I build**
+  Hexagonal architecture · Microservices · Event-driven systems · API-first design · Automated testing
 
-<br/>
+  **Cloud & delivery**
+  `AWS` `Docker` `Kubernetes` `GitLab CI/CD` `RabbitMQ`
 
-### Tech Stack
+  **Beyond the backend**
+  `TypeScript` `React` `Angular` `Python` `MongoDB`
 
-**Languages**  
-`Java` `SQL` `TypeScript` `JavaScript` `Python` `Angular` `React` `HTML` `CSS`
 
-**Frameworks & Libraries**  
-`Spring Boot` `JPA` `Spring Security` `MapStruct` `Liquibase` `WebFlux`
+  ### Beyond the code
 
-**Databases**  
-`OracleDB` `MongoDB` `PostgreSQL` `Amazon Aurora`
+  🗣️ Spanish: Native · English: Professional proficiency · French: Basic proficiency
 
-**Architecture & Practices**  
-`Hexagonal Architecture` `MVC` `Event-Driven Architecture` `Reactive Systems` `API Gateway` `Clean Code` `SOLID`
-
-**Testing & Quality**  
-`JUnit` `Mockito` `Selenium` `SonarQube`
-
-**DevOps & Tools**  
-`GitLab CI/CD` `Docker` `Kubernetes` `AWS` `RabbitMQ` `Jenkins` `Maven` `Rancher` `Redis`
-
-<br/>
-
-### Languages
-
-- **Spanish:** Native
-- **English:** Professional proficiency
-- **French:** Basic proficiency
-
-<br/>
-
-<p align="center">
-  <img align="center" alt="GIF" src="https://github.com/VladiPrograma/VladiPrograma/blob/main/assets/monkey.gif?raw=true"/>
-</p>
-
-<p align="center">
-  <em><b>I love connecting with different people</b>, so if you want to say hi, I’ll be happy to meet you!</em>
-</p>
+  I'm always happy to exchange ideas about backend architecture, collaborate on a project, or hear about something you're
+  building. Say hello! (mailto:mdumitruvlad@gmail.com)
